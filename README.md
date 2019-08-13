@@ -1,4 +1,4 @@
-<h1>Macaca Website</h1>
+<h1>Macaca Gayeway</h1>
 
 <h2>What is Macaca?</h2>
 Macaca is a passion project I am working on. Each projectunder it will have a page on the website where visitors will be able to to demo basic functionality of each project.
