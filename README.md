@@ -5,7 +5,7 @@ Macaca is a passion project I am working on. Each projectunder it will have a pa
 As such, all projects will have a specialized GUI on the site and will have accessible APIs.
 I plan to make this a life long project and will make sure this project is always constantly updated. Each project featured on the website will also have a link to their respective repos so please feel free to star and send in PRs.
 
-This particular repo will be the gateway to access the APIs all other projects will expose (over HTTP)
+This repo will be the gateway to access the APIs all other projects will expose (over HTTP). As such the <a href = "https://github.com/mr-m0nkey/macaca-ui">user interface</a> will communicate with only this gateway.
 
 <h2>Projects</h2>
 
