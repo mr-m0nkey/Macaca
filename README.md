@@ -1,9 +1,11 @@
 <h1>Macaca Website</h1>
 
 <h2>What is Macaca?</h2>
-Macaca is a passion project I am working on. Each project will have a page on the site where visitors will be able to to demo basic functionality of each project.
+Macaca is a passion project I am working on. Each projectunder it will have a page on the website where visitors will be able to to demo basic functionality of each project.
 As such, all projects will have a specialized GUI on the site and will have accessible APIs.
 I plan to make this a life long project and will make sure this project is always constantly updated. Each project featured on the website will also have a link to their respective repos so please feel free to star and send in PRs.
+
+This particular repo will be the gateway to access the APIs all other projects will expose (over HTTP)
 
 <h2>Projects</h2>
 
