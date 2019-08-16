@@ -244,6 +244,4 @@ Temporary Items
 .idea/sonarlint/
 .idea/vcs.xml
 Macaca.iml
-src/main/resources/
-src/test/
 target/generated-sources/
