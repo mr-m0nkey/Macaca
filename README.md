@@ -12,7 +12,7 @@ This repo will be the gateway to access the APIs all other projects will expose 
 <h3>Open source</h3>
 <ul>
     <li><a href = "https://github.com/mr-m0nkey/macaca-ui">Macaca UI</a></li>
-    <li><a href = "https://github.com/mr-m0nkey/Macaca-NLP">Macaca NLP</a></li>
+    <li><a href = "https://github.com/mr-m0nkey/NLP">Macaca NLP</a></li>
     <li><a href = "https://github.com/mr-m0nkey/Genie">Genie</a></li>
     <li><a href = "https://github.com/mr-m0nkey/Command-Line-Twitter-with-Node">Terminal Twitter</a></li>
 </ul>
