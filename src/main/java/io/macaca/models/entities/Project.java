@@ -1,6 +1,6 @@
 package io.macaca.models.entities;
 
-import io.macaca.ProjectType;
+import io.macaca.enums.ProjectType;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

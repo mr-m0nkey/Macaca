@@ -1,4 +1,4 @@
-package io.macaca;
+package io.macaca.enums;
 
 public enum ProjectType {
     CANVAS
