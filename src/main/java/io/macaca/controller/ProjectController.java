@@ -13,7 +13,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping(
-        value ="/api/v1/project",
+        value = "/api/v1/projects",
         produces = MediaType.APPLICATION_JSON_VALUE
 )
 public class ProjectController {
@@ -25,4 +25,6 @@ public class ProjectController {
     public List<Project> getAll() {
         return service.getAll();
     }
+
+
 }
